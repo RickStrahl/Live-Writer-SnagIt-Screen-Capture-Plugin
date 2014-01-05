@@ -6,7 +6,7 @@ A Live Writer plug-in to provide screen capturing using TechSmith's SnagIt
 <img src="http://www.west-wind.com/tools/Images/SnagitLiveWriterPlugin.png" />
 
 This plug-in provides the ability to capture screen shots directly into Live Writer blog posts
-using the popular but commercial <a href="http://www.techsmith.com/snagit.html">Snag-it software from Techsmith</a>. 
+using the popular but commercial <a href="http://www.techsmith.com/snagit.html">SnagIt software from Techsmith</a>. 
 
 You get to use most of Snagit's capture options directly from this interface and your capture settings
 can be saved and re-used on subsequent captures. Easy no fuss integration - big time-saver when
